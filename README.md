@@ -19,7 +19,7 @@ This project demonstrates efficient processing and analysis of a large tick-leve
 
 ### 1. Clone the Repository
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/GeorgiiSizykh/big_tick_data
 cd big_tick_data
 ```
 
